@@ -1,5 +1,5 @@
 # Client Side Routing w/ React Router v. 5
-
+Text for Retro. Terminal 1 was for committing, 2 was for cd into RRM installing stuff, 3 was for cd into client installing and starting dev server. 
 Topics:
 
 * React Router
